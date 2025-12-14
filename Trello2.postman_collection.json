@@ -30,7 +30,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-						"raw": "https://api.trello.com/1/members/me/boards?key=REDACTED_KEY&token=REDACTED_TOKEN"
+					"raw": "https://api.trello.com/1/members/me/boards?key=18444d9ed9cbe0f28325c72109a0fbfc&token=ATTA618ae11ea45b78632ad1753cf54f988484c7797d13a7d06a2bac8f44440644289D6DC267",
 					"protocol": "https",
 					"host": [
 						"api",
@@ -46,11 +46,11 @@
 					"query": [
 						{
 							"key": "key",
-							"value": "REDACTED_KEY"
+							"value": "18444d9ed9cbe0f28325c72109a0fbfc"
 						},
 						{
 							"key": "token",
-							"value": "REDACTED_TOKEN"
+							"value": "ATTA618ae11ea45b78632ad1753cf54f988484c7797d13a7d06a2bac8f44440644289D6DC267"
 						}
 					]
 				}
